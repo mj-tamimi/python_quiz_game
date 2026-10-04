@@ -1,7 +1,7 @@
 # Python Quiz Game
 ![Static Badge](https://img.shields.io/badge/python-3.12-blue)
 
-A simple quiz game built with python
+A simple quiz game built with Python
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
