@@ -42,6 +42,15 @@ python_quiz_game/
 │   .env.example
 │   .gitignore
 |   README.md
+│
+├───gifs
+│       demo.gif
+│
+├───pictures
+│       image1.png
+│       image2.png
+│       image3.png
+└───
 ```
 
 ### File description
@@ -57,6 +66,8 @@ python_quiz_game/
 | `pictures/image1.png` | game start screenshot |
 | `pictures/image2.png` | quiz section screenshot |
 | `pictures/image3.png` | the final score screenshot |
+| `gifs/` | stores demo gif files|
+| `gifs/demo.gif` | shows the project demo |
 
 
 
